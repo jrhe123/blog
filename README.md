@@ -5,7 +5,7 @@ Blog System developed by Lavarel 5.2 (PHP Framework)
 
 1. Admin Portal
 
-1. User management
+(1) User management
 1. Article management
 1. Category management
 1. System management
